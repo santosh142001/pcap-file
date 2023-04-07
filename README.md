@@ -1,2 +1,2 @@
 # pcap-file
-i map
+smtp protocol
